@@ -3,4 +3,4 @@
 <h2>Tours</h2>
  
 
-<a href="https://gracious-poitras-cce937.netlify.app/">Live demo</a>
+<a href="https://tour-react-project-2.netlify.app/">Live demo</a>
